@@ -451,7 +451,7 @@ void Auto_task(void *p_arg)
 		OSTimeDlyHMSM(0,0,2,0,OS_OPT_TIME_HMSM_STRICT,&err); //延时20ms
 	}
 }
-//123
+//12
 void Manual_task(void *p_arg)  //手动任务
 {
 	OS_ERR err;
